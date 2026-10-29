@@ -12,6 +12,9 @@ Job scams in technology and banking sectors have evolved beyond simple phishing.
 
 This project offers an **autonomously connected, passive auditing system**. The frontend browser extension extracts metadata from LinkedIn job postings and queries a production-ready, cloud-hosted Python analytical engine on **Render**, removing any local environment setup for the end-user.
 
+• 🟢 0% - 40% (Low Risk): Represents a stable corporate infrastructure with consistent industry patterns.
+• 🔴 41% - 100% (High Risk): Intercepts severe anomalies, such as freshly registered domains via RDAP, malicious links flagged on PhishTank threat feeds, or malicious data-farming schemas.
+
 ### 🔬 Core Features & Research Base
 The analytical engine is built upon empirical telemetry and OSINT methodologies reported in recent global threat intelligence investigations:
 *   **Bilingual Heuristic Engine (ES/EN):** Intercepts data-farming patterns, premature sensitive document requests, and anomalous selection processes.
@@ -28,6 +31,9 @@ The analytical engine is built upon empirical telemetry and OSINT methodologies 
 Las estafas de empleo en los sectores tecnológico y bancario han evolucionado más allá del phishing común. Los atacantes ahora orquestan suplantaciones de identidad corporativa avanzadas, desplegando "Vacantes Fantasma" (*Ghost Jobs*) para recolectar masivamente datos personales (CVs, DNI/NIE, información bancaria) o distribuir malware bajo el pretexto de pruebas técnicas.
 
 Este proyecto ofrece un **sistema de auditoría pasiva autónomo**. La extensión de navegador frontend extrae los metadatos de las ofertas de LinkedIn e interroga de forma directa a un motor analítico en Python alojado en la nube (**Render**), eliminando la necesidad de que el usuario final configure entornos locales.
+
+• 🟢 0% - 40% (Riesgo Bajo): Indica una infraestructura corporativa estable que cumple con los estándares legítimos del sector.
+• 🔴 41% - 100% (Riesgo Alto): Intercepta anomalías graves como dominios web de reciente creación bajo protocolo RDAP, enlaces maliciosos reportados en las listas negras de PhishTank o patrones ocultos de suplantación.
 
 ### 🔬 Características Clave y Base de Investigación
 El motor analítico se basa en telemetría empírica y metodologías OSINT documentadas en investigaciones recientes de inteligencia de amenazas:
