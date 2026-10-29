@@ -1,12 +1,11 @@
 {
   "manifest_version": 3,
   "name": "LinkedIn Job Fraud Auditor",
-  "version": "1.4",
+  "version": "1.5",
   "description": "Analiza ofertas de empleo de LinkedIn y comprueba empresas en busca de patrones de fraude.",
   "permissions": ["activeTab", "scripting"],
   "host_permissions": [
-    "http://127.0.0.1:5000/*",
-    "https://*://*",
+    "https://auditor-legitimate-job-offers.onrender.com/*",
     "https://rdap.org/*"
   ],
   "action": {

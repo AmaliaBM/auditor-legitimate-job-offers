@@ -1,4 +1,4 @@
-const API_URL = 'http://127.0.0.1:5000/analizar';
+const API_URL = 'https://auditor-legitimate-job-offers.onrender.com/analizar';
 
 /* ============================================================
    MODO OFERTA: se ejecuta dentro de la pestaña de LinkedIn
