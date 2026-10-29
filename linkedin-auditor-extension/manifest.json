@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Job Fraud Auditor",
+  "version": "1.4",
+  "description": "Analiza ofertas de empleo de LinkedIn y comprueba empresas en busca de patrones de fraude.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "http://127.0.0.1:5000/*",
+    "https://*://*",
+    "https://rdap.org/*"
+  ],
+  "action": {
+    "default_title": "Auditar oferta o empresa",
+    "default_popup": "popup.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "linkedin-auditor@auditorempleo.local",
+      "strict_min_version": "115.0"
+    }
+  }
+}
