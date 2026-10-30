@@ -2,6 +2,10 @@
 
  An OSINT-driven, privacy-focused browser extension powered by a cloud-deployed Python backend (Render). Designed to detect sophisticated job scams, data harvesting, and phishing in IT and banking sectors on LinkedIn.
  Una extensión de navegador y backend en Python desplegado en la nube (Render) basados en OSINT y enfocados en la privacidad. Diseñados para detectar estafas laborales sofisticadas, recolección masiva de datos y phishing en los sectores de IT y banca en LinkedIn.
+---
+• Link Browser Extension in Chrome Web Store:
+
+[https://chromewebstore.google.com/detail/linkedin-job-fraud-audito/denicppacmljnenncepacodjjhbgccja] (https://chromewebstore.google.com/detail/linkedin-job-fraud-audito/denicppacmljnenncepacodjjhbgccja)
 
 ---
 
