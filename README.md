@@ -5,8 +5,7 @@
 ---
 • Link Browser Extension in Chrome Web Store:
 
-[https://chromewebstore.google.com/detail/linkedin-job-fraud-audito/denicppacmljnenncepacodjjhbgccja] (https://chromewebstore.google.com/detail/linkedin-job-fraud-audito/denicppacmljnenncepacodjjhbgccja)
-
+[https://chromewebstore.google.com/detail/linkedin-job-fraud-audito/denicppacmljnenncepacodjjhbgccja]
 ---
 
 ## 🌍 English Presentation
